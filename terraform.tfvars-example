@@ -1,0 +1,9 @@
+notification_email = []
+route_os = ""
+route_os_version = ""
+package_code = ""
+core_count = 2
+term_length = 12
+dc1_code = ""
+dc2_code = ""
+account_name = "" 
